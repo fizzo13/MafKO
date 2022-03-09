@@ -1,7 +1,5 @@
 # "Transcriptional specification of fetal to adult liver  vascular functional zonation"
-Code for reproducibility and downstream analysis of the single cell RNA sequencing data available in "Transcriptional specification of fetal to adult liver  vascular functional zonation" [[add link/doi]], including: 
-i) Single cell RNA sequencing for developmental timepoints in mouse
-ii) Single cell RNA sequencing of WT and Maf KO endothelial cells
+Code for reproducibility and downstream analysis of the single cell RNA sequencing data available in "Transcriptional specification of fetal to adult liver  vascular functional zonation" [[add link/doi]], including: i) Single cell RNA sequencing for developmental timepoints in mouse and ii) Single cell RNA sequencing of WT and Maf KO endothelial cells
 
 ## Scripts
 This repository contains the scripts used for analysis of single cell RNA seq data for "Transcriptional specification of fetal to adult liver  vascular functional zonation" [[add link/doi]], including the following files:
