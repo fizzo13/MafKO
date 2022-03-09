@@ -12,8 +12,8 @@ iii) [[filename]] Seurat base analysis for single cell RNA seq data for WT vs Ma
 </p>
 iv) [[filename]] RNA velocity analysis for either WT and Maf knockout mice, for comparison of developmental trajectories of endothelial cells upon Maf knockout.
 
-## Available files
-In addition, we provide the processed loom files and the Seurat object to facilitate downstream analysis without the need to re-process the raw data (raw data is available at GEO:[[add geo number]]):
+## Available files upon request
+Raw data for this publication is available at GEO (GSE174209 and GSE174208). In addition, we can provide the processed loom files and the Seurat object to facilitate downstream analysis without the need to re-process the raw data. Due to file size we are not able to upload the files here, but the following are available upon request:
 </p>
 i) combined.loom - Loom hd5 file containing the combined data for all the developmental timepoints used in the publication.
 </p>
@@ -26,5 +26,5 @@ iv) development.rds - .RDS file containing the processed Seurat object for all d
 v) mafko.rds - .RDS file containing the processed Seurat object for combineed WT and Maf KO mice scRNA-seq data.
 
 ### Contact
-Any questions, feel free to post on the Issues section or reach out to:
+Any questions, feel free to post on the Issues section. If you require any of the processed files reach out to:
 jmg2008@med.cornell.edu or fri2002@med.cornell.edu
