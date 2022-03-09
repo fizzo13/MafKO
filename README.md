@@ -12,11 +12,15 @@ iii) [[filename]] RNA velocity analysis for either WT and Maf knockout mice, for
 ## Available files
 In addition, we provide the processed loom files and the Seurat object to facilitate downstream analysis without the need to re-process the raw data (available in GEO):
 i) combined.loom - Loom hd5 file containing the combined data for all the developmental timepoints used in the publication.
+</p>
 ii) wt.loom - Loom hd5 file containing the processed data for WT mice.
+</p>
 iii) mafko.loom - Loom hd5 file containing the processed data for Maf KO mice.
+</p>
 iv) development.rds - .RDS file containing the processed Seurat object for all developmental timepoints
+</p>
 v) mafko.rds - .RDS file containing the processed Seurat object for combineed WT and Maf KO mice scRNA-seq data.
 
 ### Contact
-Any questions, feel free to post on Issues or reach out to:
+Any questions, feel free to post on the Issues section or reach out to:
 jmg2008@med.cornell.edu or fri2002@med.cornell.edu
