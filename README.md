@@ -3,6 +3,7 @@ Code for reproducibility and downstream analysis of the single cell RNA sequenci
 
 ## Scripts
 This repository contains the scripts used for analysis of single cell RNA seq data for "Transcriptional specification of fetal to adult liver  vascular functional zonation" [[add link/doi]], including the following files:
+</p>
 i) [[filename]]  Seurat base analysis of single cell RNA seq data for developmental timepoints.
 </p>
 ii) [[filename]] RNA velocity analysis using velocyto [[ref-link]] and scVelo [[ref-link]] for developmental timepoints to infer transitions and genes driving the transcriptional changes.
