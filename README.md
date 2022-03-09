@@ -11,6 +11,7 @@ iii) [[filename]] RNA velocity analysis for either WT and Maf knockout mice, for
 
 ## Available files
 In addition, we provide the processed loom files and the Seurat object to facilitate downstream analysis without the need to re-process the raw data (available in GEO):
+</p>
 i) combined.loom - Loom hd5 file containing the combined data for all the developmental timepoints used in the publication.
 </p>
 ii) wt.loom - Loom hd5 file containing the processed data for WT mice.
