@@ -12,6 +12,12 @@ iii) <strong>MafKO.R</strong> Seurat base analysis for single cell RNA seq data 
 </p>
 iv) <strong>scVelo_MafKO.ipynb</strong> and <strong>scVelo_MafKO.html</strong> RNA velocity analysis for either WT and Maf knockout mice, for comparison of developmental trajectories of endothelial cells upon Maf knockout.The .ipynb file contains the Jupyter notebook and the .html file includes graphical output.
 
+## Available files
+We included the metadata files containing cell barcode, QC data, clustering, cluster names and UMAP coordinates for both development and MafKO datasets as .csv files:
+i) development_metadata.csv
+ii) MafKO_metadata.csv
+These files are also available through the GEO repository (GSE174209 and GSE174208).
+
 ## Available files upon request
 Raw data for this publication is available at GEO (GSE174209 and GSE174208). In addition, we can provide the processed loom files and the Seurat object to facilitate downstream analysis without the need to re-process the raw data. Due to file size constrains, we are not able to upload the files here, but the following files are available upon request:
 </p>
