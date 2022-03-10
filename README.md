@@ -14,8 +14,11 @@ iv) <strong>scVelo_MafKO.ipynb</strong> and <strong>scVelo_MafKO.html</strong> R
 
 ## Metadata files
 We included the metadata files containing cell barcode, QC data, clustering, cluster names and UMAP coordinates for both development and MafKO datasets as .csv files:
+</p>
 i) development_metadata.csv
+</p>
 ii) MafKO_metadata.csv
+</p>
 These files are also available through the GEO repository (GSE174209 and GSE174208).
 
 ## Processed files upon request
