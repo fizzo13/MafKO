@@ -8,7 +8,7 @@ i) <strong>development.R</strong> - Seurat base analysis of single cell RNA seq 
 </p>
 ii) <strong>scVelo_development.ipynb</strong> and <strong>scVelo_development.html</strong> RNA velocity analysis using velocyto [[ref-link]] and scVelo [[ref-link]] for developmental timepoints to infer transitions and genes driving the transcriptional changes. .ipynb contains the Jupyter notebook and .html includes graphical output.
 </p>
-iii) [[filename]] Seurat base analysis for single cell RNA seq data for WT vs Maf KO experiment
+iii) <strong>MafKO.R</strong> Seurat base analysis for single cell RNA seq data for WT vs Maf KO experiment
 </p>
 iv) <strong>scVelo_MafKO.ipynb</strong> and <strong>scVelo_MafKO.html</strong> RNA velocity analysis for either WT and Maf knockout mice, for comparison of developmental trajectories of endothelial cells upon Maf knockout.
 
