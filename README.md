@@ -15,9 +15,9 @@ iv) <strong>scVelo_MafKO.ipynb</strong> RNA velocity analysis for either WT and 
 ## Metadata files
 We included the metadata files containing cell barcode, QC data, clustering, cluster names and UMAP coordinates for both development and MafKO datasets as .csv files:
 </p>
-i) development_metadata.csv
+i) <strong>development_metadata.csv</strong>
 </p>
-ii) MafKO_metadata.csv
+ii) <strong>MafKO_metadata.csv</strong>
 </p>
 These files are also available through the GEO repository (GSE174209 and GSE174208).
 
