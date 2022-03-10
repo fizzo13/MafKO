@@ -6,7 +6,7 @@ This repository contains the scripts used for analysis of single cell RNA seq da
 </p>
 i) <strong>development.R</strong> - Seurat base analysis of single cell RNA seq data for developmental timepoints.
 </p>
-ii) <strong>scVelo_development.ipynb</strong> and <strong>scVelo_development.html</strong> RNA velocity analysis using velocyto [[ref-link]] and scVelo [[ref-link]] for developmental timepoints to infer transitions and genes driving the transcriptional changes. .ipynb contains the Jupyter notebook and .html includes graphical output.
+ii) <strong>scVelo_development.ipynb</strong> and <strong>scVelo_development.html</strong> RNA velocity analysis using velocyto (https://github.com/velocyto-team/velocyto.py) and scVelo (https://github.com/theislab/scvelo) for developmental timepoints to infer transitions and genes driving the transcriptional changes. .ipynb contains the Jupyter notebook and .html includes graphical output.
 </p>
 iii) <strong>MafKO.R</strong> Seurat base analysis for single cell RNA seq data for WT vs Maf KO experiment
 </p>
