@@ -10,7 +10,7 @@ ii) <strong>scVelo_development.ipynb</strong> and <strong>scVelo_development.htm
 </p>
 iii) [[filename]] Seurat base analysis for single cell RNA seq data for WT vs Maf KO experiment
 </p>
-iv) [[filename]] RNA velocity analysis for either WT and Maf knockout mice, for comparison of developmental trajectories of endothelial cells upon Maf knockout.
+iv) <strong>scVelo_MafKO.ipynb</strong> and <strong>scVelo_MafKO.html</strong> RNA velocity analysis for either WT and Maf knockout mice, for comparison of developmental trajectories of endothelial cells upon Maf knockout.
 
 ## Available files upon request
 Raw data for this publication is available at GEO (GSE174209 and GSE174208). In addition, we can provide the processed loom files and the Seurat object to facilitate downstream analysis without the need to re-process the raw data. Due to file size constrains, we are not able to upload the files here, but the following files are available upon request:
