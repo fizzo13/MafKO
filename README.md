@@ -6,11 +6,11 @@ This repository contains the scripts used for analysis of single cell RNA seq da
 </p>
 i) <strong>development.R</strong> - Seurat base analysis of single cell RNA seq data for developmental timepoints.
 </p>
-ii) <strong>scVelo_development.ipynb</strong> and <strong>scVelo_development.html</strong> RNA velocity analysis using velocyto (https://github.com/velocyto-team/velocyto.py) and scVelo (https://github.com/theislab/scvelo) for developmental timepoints to infer transitions and genes driving the transcriptional changes. .ipynb contains the Jupyter notebook and .html includes graphical output.
+ii) <strong>scVelo_development.ipynb</strong> and <strong>scVelo_development.html</strong> RNA velocity analysis using velocyto (https://github.com/velocyto-team/velocyto.py) and scVelo (https://github.com/theislab/scvelo) for developmental timepoints to infer transitions and genes driving the transcriptional changes. The .ipynb file contains the Jupyter notebook and the .html file includes graphical output.
 </p>
 iii) <strong>MafKO.R</strong> Seurat base analysis for single cell RNA seq data for WT vs Maf KO experiment
 </p>
-iv) <strong>scVelo_MafKO.ipynb</strong> and <strong>scVelo_MafKO.html</strong> RNA velocity analysis for either WT and Maf knockout mice, for comparison of developmental trajectories of endothelial cells upon Maf knockout.
+iv) <strong>scVelo_MafKO.ipynb</strong> and <strong>scVelo_MafKO.html</strong> RNA velocity analysis for either WT and Maf knockout mice, for comparison of developmental trajectories of endothelial cells upon Maf knockout.The .ipynb file contains the Jupyter notebook and the .html file includes graphical output.
 
 ## Available files upon request
 Raw data for this publication is available at GEO (GSE174209 and GSE174208). In addition, we can provide the processed loom files and the Seurat object to facilitate downstream analysis without the need to re-process the raw data. Due to file size constrains, we are not able to upload the files here, but the following files are available upon request:
