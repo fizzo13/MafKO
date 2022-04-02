@@ -21,18 +21,8 @@ ii) <strong>MafKO_metadata.csv</strong>
 </p>
 These files are also available through the GEO repository (GSE174209 and GSE174208).
 
-## Processed files upon request
-Raw data for this publication is available at GEO (GSE174209 and GSE174208). In addition, we can provide the processed loom files and the Seurat object to facilitate downstream analysis without the need to re-process the raw data. Due to file size constrains, we are not able to upload the files here, but the following files are available upon request:
-</p>
-i) combined.loom - Loom hd5 file containing the combined data for all the developmental timepoints used in the publication.
-</p>
-ii) wt.loom - Loom hd5 file containing the processed data for WT mice.
-</p>
-iii) mafko.loom - Loom hd5 file containing the processed data for Maf KO mice.
-</p>
-iv) development.rds - .RDS file containing the processed Seurat object for all developmental timepoints
-</p>
-v) mafko.rds - .RDS file containing the processed Seurat object for combineed WT and Maf KO mice scRNA-seq data.
+## Processed files available at GEO
+Raw data for this publication is available at GEO (GSE174209 and GSE174208). In addition, we provide the Seurat objects for both development and c-Maf KO  to facilitate downstream analysis without the need to re-process the raw data. 
 
 ### Contact
 Any questions, feel free to post on the Issues section. If you require any of the processed files reach out to:
