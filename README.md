@@ -22,7 +22,7 @@ ii) <strong>MafKO_metadata.csv</strong>
 These files are also available through the GEO repository (GSE174209 and GSE174208).
 
 ## Processed files available at GEO
-Raw data for this publication is available at GEO (GSE174209 and GSE174208). In addition, we provide the Seurat objects for both development and c-Maf KO  to facilitate downstream analysis without the need to re-process the raw data. 
+Data for this publication is available at GEO (GSE174209 and GSE174208). In addition to raw data, we provide the Seurat objects for both development and c-Maf KO  to facilitate downstream analysis without the need to re-process the raw data. 
 
 ### Contact
 Any questions, feel free to post on the Issues section. If you require any of the processed files reach out to:
